@@ -1,0 +1,451 @@
+/* open-sans-300 - latin */
+/* LINKS */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-300.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-300.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-300.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-300.woff') format('woff'), url('../webfonts/open-sans-v18-latin-300.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-300.svg#OpenSans') format('svg');
+  /* open-sans-300italic - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-300italic.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-300italic.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-300italic.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-300italic.woff') format('woff'), url('../webfonts/open-sans-v18-latin-300italic.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-300italic.svg#OpenSans') format('svg');
+  /* open-sans-regular - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-regular.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-regular.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-regular.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-regular.woff') format('woff'), url('../webfonts/open-sans-v18-latin-regular.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-regular.svg#OpenSans') format('svg');
+  /* open-sans-italic - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-italic.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-italic.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-italic.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-italic.woff') format('woff'), url('../webfonts/open-sans-v18-latin-italic.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-italic.svg#OpenSans') format('svg');
+  /* open-sans-600 - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-600.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-600.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-600.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-600.woff') format('woff'), url('../webfonts/open-sans-v18-latin-600.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-600.svg#OpenSans') format('svg');
+  /* open-sans-600italic - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-600italic.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-600italic.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-600italic.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-600italic.woff') format('woff'), url('../webfonts/open-sans-v18-latin-600italic.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-600italic.svg#OpenSans') format('svg');
+  /* open-sans-700 - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-700.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-700.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-700.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-700.woff') format('woff'), url('../webfonts/open-sans-v18-latin-700.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-700.svg#OpenSans') format('svg');
+  /* open-sans-700italic - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-700italic.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-700italic.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-700italic.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-700italic.woff') format('woff'), url('../webfonts/open-sans-v18-latin-700italic.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-700italic.svg#OpenSans') format('svg');
+  /* open-sans-800 - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-800.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-800.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-800.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-800.woff') format('woff'), url('../webfonts/open-sans-v18-latin-800.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-800.svg#OpenSans') format('svg');
+  /* open-sans-800italic - latin */ }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  /* IE9 Compat Modes */
+  src: url('../webfonts/open-sans-v18-latin-800italic.eot');
+  /* IE6-IE8 */
+  /* Super Modern Browsers */
+  /* Modern Browsers */
+  /* Safari, Android, iOS */
+  /* Legacy iOS */
+  src: local(''), url('../webfonts/open-sans-v18-latin-800italic.eot?#iefix') format('embedded-opentype'), url('../webfonts/open-sans-v18-latin-800italic.woff2') format('woff2'), url('../webfonts/open-sans-v18-latin-800italic.woff') format('woff'), url('../webfonts/open-sans-v18-latin-800italic.ttf') format('truetype'), url('../webfonts/open-sans-v18-latin-800italic.svg#OpenSans') format('svg'); }
+
+a, a:active, a:visited, a:hover {
+  color: #1d1d1d;
+  text-decoration: underline;
+  -moz-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -moz-text-decoration-color: #014a95;
+  text-decoration-color: #014a95;
+  -moz-text-decoration-style: solid;
+  text-decoration-style: solid;
+  text-underline-position: under;
+  /* BUTTONS */ }
+
+.btn-ukh, .btn-ukh-outline {
+  border: none;
+  border-radius: 0;
+  outline: 0;
+  padding: 12px 25px;
+  line-height: 1;
+  color: #fff;
+  float: right;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  background-color: #014a95;
+  border: 1px solid #014a95; }
+  .btn-ukh:hover, .btn-ukh-outline:hover {
+    color: #fff;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1); }
+
+.btn-ukh-outline {
+  background-color: transparent;
+  color: #1d1d1d;
+  /* HEADLINES */ }
+  .btn-ukh-outline:hover {
+    background-color: #014a95;
+    color: #fff; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif !important; }
+
+h1 {
+  font-size: 45px;
+  line-height: 1.2;
+  font-weight: 600;
+  margin: 0 0 25px; }
+
+h2 {
+  font-size: 22.5px;
+  line-height: 30px;
+  margin-bottom: 18px;
+  font-weight: 700; }
+
+h3 {
+  font-size: 22.5px;
+  line-height: 30px;
+  margin-bottom: 18px;
+  font-weight: 400; }
+
+form {
+  background: #f6f6f6;
+  padding: 1em;
+  margin-bottom: 30px; }
+  form > .container-fluid {
+    padding: 0; }
+  form input, form select, form textarea {
+    border-radius: 0 !important; }
+  form fieldset {
+    border: none; }
+    form fieldset legend {
+      width: auto;
+      font-weight: 600;
+      margin-bottom: 30px; }
+    form fieldset h2 {
+      font-weight: 400;
+      margin-bottom: 30px; }
+    form fieldset .control-label {
+      font-weight: 500; }
+    form fieldset .form-group.no-placeholder .control-label {
+      margin-top: -25px;
+      margin-left: -0.75rem;
+      font-size: 12px; }
+    form fieldset .control-label {
+      position: absolute;
+      z-index: 1;
+      font-size: 18px;
+      transition: all 0.1s ease-in-out;
+      padding: 0.375rem 0.75rem;
+      margin: 0; }
+    form fieldset .form-control {
+      border: none;
+      border-bottom: 1px solid #014a95;
+      margin-bottom: 31px; }
+      form fieldset .form-control:focus {
+        box-shadow: none;
+        border-bottom: 2px solid #014a95;
+        margin-bottom: 30px; }
+      form fieldset .form-control::placeholder {
+        color: transparent; }
+    form fieldset textarea.form-control {
+      background: #fff;
+      padding-top: 28px; }
+    form fieldset .form-check label {
+      padding-left: 5px; }
+      form fieldset .form-check input[type=radio] {
+        position: relative;
+        opacity: 1; }
+        form fieldset .form-check input[type=radio]::before {
+          content: "\f111";
+          font-family: 'Font Awesome 5 Pro';
+          position: absolute;
+          left: 0px;
+          top: -7px;
+          background: #f6f6f6;
+          color: #1d1d1d; }
+        form fieldset .form-check input[type=radio]:checked::before {
+          font-family: 'Font Awesome 5 Pro';
+          content: "\f192"; }
+      form fieldset .form-check input[type=checkbox]::before {
+        content: "\f0c8";
+        font-family: 'Font Awesome 5 Pro';
+        position: absolute;
+        left: 0px;
+        top: -4px;
+        background: #f6f6f6;
+        color: #1d1d1d; }
+        form fieldset .form-check input[type=checkbox]:checked::before {
+          content: "\f14a"; }
+
+.navbar-brand, nav.navbar {
+  padding: 0; }
+
+.navbar-brand {
+  line-height: 1;
+  display: block; }
+  .navbar-brand .ukh-logo-subline {
+    transition: opacity 0.3s linear;
+    opacity: 1; }
+  .navbar-brand img {
+    margin-bottom: 4px; }
+
+nav ul.navbar-nav {
+  margin-top: 48px; }
+  nav ul.navbar-nav li.nav-item {
+    position: relative;
+    margin: 0 0.6rem; }
+    nav ul.navbar-nav li.nav-item:after {
+      content: '';
+      border-right: 1px solid #575757;
+      position: absolute;
+      right: -10px;
+      top: 3px;
+      height: 80%; }
+    nav ul.navbar-nav li.nav-item:last-child:after {
+      content: none; }
+    nav ul.navbar-nav li.nav-item.active a.nav-link {
+      color: #1d1d1d;
+      font-weight: 700; }
+    nav ul.navbar-nav li.nav-item a.nav-link, nav ul.navbar-nav li.nav-item a.dropdown-item {
+      padding: 0;
+      font-size: 16px;
+      line-height: 16px;
+      color: #1d1d1d;
+      display: block;
+      text-decoration: none;
+      border-bottom: 1px solid #c6c6c6; }
+      nav ul.navbar-nav li.nav-item a.nav-link:hover, nav ul.navbar-nav li.nav-item a.dropdown-item:hover {
+        color: rgba(29, 29, 29, .5); }
+      nav ul.navbar-nav li.nav-item a.nav-link span, nav ul.navbar-nav li.nav-item a.dropdown-item span {
+        color: #004994; }
+    nav ul.navbar-nav li.nav-item .dropdown-menu {
+      padding: 0;
+      margin-top: 15px; }
+      nav ul.navbar-nav li.nav-item .dropdown-menu:before {
+        position: absolute;
+        top: -13px;
+        left: 44%;
+        display: inline-block;
+        border-right: 12px solid transparent;
+        border-bottom: 12px solid #ccc;
+        border-left: 12px solid transparent;
+        border-bottom-color: rgba(0, 0, 0, 0.2);
+        content: ''; }
+      nav ul.navbar-nav li.nav-item .dropdown-menu:after {
+        position: absolute;
+        top: -12px;
+        left: 44%;
+        display: inline-block;
+        border-right: 12px solid transparent;
+        border-bottom: 12px solid #fff;
+        border-left: 12px solid transparent;
+        content: ''; }
+      nav ul.navbar-nav li.nav-item .dropdown-menu ul {
+        list-style-type: none;
+        padding: 0 0.5rem; }
+        nav ul.navbar-nav li.nav-item .dropdown-menu ul li a {
+          display: block;
+          padding: 0.8rem; }
+          nav ul.navbar-nav li.nav-item .dropdown-menu ul li a.active {
+            background: transparent;
+            color: #1d1d1d;
+            font-weight: 600; }
+          nav ul.navbar-nav li.nav-item .dropdown-menu ul li:last-child .dropdown-item {
+            border-bottom: none; }
+  nav ul.navbar-nav .dropdown-toggle::after {
+    content: none; }
+  nav ul.navbar-nav .dropdown-menu a.dropdown-item:hover, nav ul.navbar-nav .dropdown-menu a.dropdown-item:active {
+    background: none; }
+
+#footer ul {
+  list-style-type: none;
+  display: block;
+  padding: 0;
+  margin: 1rem 0 0 0rem; }
+  #footer ul li {
+    display: inline-block;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 4px;
+    line-height: 16px; }
+    #footer ul li:before {
+      content: '';
+      border-right: 1px solid #575757;
+      position: absolute;
+      left: 4px;
+      top: 0;
+      height: 100%; }
+    #footer ul li:first-child {
+      padding-left: 0; }
+    #footer ul li a {
+      color: #fff;
+      text-decoration: none; }
+      #footer ul li a:hover {
+        text-decoration: underline; }
+
+@media (max-width: 991px) {
+  nav ul.navbar-nav li.nav-item {
+    margin: 0 0 20px 0; }
+    nav ul.navbar-nav li.nav-item:after {
+      display: none; }
+    nav ul.navbar-nav li.nav-item a.nav-link {
+      font-size: 18px;
+      line-height: 25px;
+      border-bottom: none; }
+    nav ul.navbar-nav li.nav-item .dropdown-menu {
+      display: block;
+      border: none; }
+      nav ul.navbar-nav li.nav-item .dropdown-menu::before, nav ul.navbar-nav li.nav-item .dropdown-menu::after {
+        display: none; }
+      nav ul.navbar-nav li.nav-item .dropdown-menu .dropdown-item {
+        border: none; } }
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+body {
+  font-family: 'Open sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #1d1d1d;
+  padding-top: 150px;
+  transition: all 0.5s ease-in-out;
+  transition: padding 0s ease-in-out; }
+
+#header {
+  -webkit-box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+  -moz-box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+  box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.30);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: relative;
+  top: 0;
+  /*damit die Action-Buttons nicht darüber liegen*/
+  z-index: 7;
+  background: #fff;
+  transition: padding 0.3s linear; }
+  #header.header-collapsed {
+    padding: 10px 0 0 0px; }
+  #header.header-collapsed nav ul.navbar-nav, #header.header-collapsed .cart-preview {
+    margin-top: 5px; }
+  #header.header-collapsed .navbar-brand .ukh-logo-subline {
+    opacity: 0; }
+  #header.header-collapsed .navbar-brand {
+    padding-top: 0;
+    width: 180px; }
+  #header.header-collapsed .nav-item {
+    height: 16px; }
+  #header.header-collapsed .bereichs-navigation {
+    margin-top: 0px; }
+
+#footer {
+  -webkit-box-shadow: 0px -3px 4px 0px rgba(0, 0, 0, 0.30);
+  -moz-box-shadow: 0px -3px 4px 0px rgba(0, 0, 0, 0.30);
+  box-shadow: 0px -3px 4px 0px rgba(0, 0, 0, 0.30);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  font-size: 0.9rem;
+  line-height: 16px;
+  background: #555;
+  color: #fff; }
+  #footer p.copyright {
+    display: inline-block;
+    margin: 0;
+    position: initial;
+    transform: none;
+    background: none;
+    padding: 0; }

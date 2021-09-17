@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>UKH Vorlage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div class="container-fluid position-fixed" id="header">
+      <div class="container position-relative">
+        <div tal:replace="structure slot: sitecap" />
+        <div tal:replace="structure slot: globalmenu" />
+        <div tal:replace="structure slot: navbar" />
+      </div>
+    </div>
+
+            <div class="row">
+                <div class="col-6 col-md-6 col-lg-3 order-last order-lg-first text-right text-lg-left">
+                    <a class="navbar-brand" href="#">
+                        <!--?xml version="1.0" encoding="utf-8"?-->
+                        <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 423 117.4" style="enable-background:new 0 0 423 117.4;" xml:space="preserve">
+                            <style type="text/css">
+                                .blau{fill-rule:evenodd;clip-rule:evenodd;fill:#004994;}
+                                .grey{fill-rule:evenodd;clip-rule:evenodd;fill:#555555;}
+                            </style>
+                            <g>
+                                <path class="blau" d="M56.7,49.7c-15.6,0-28.3-12.7-28.3-28.4H0C0,52.6,25.4,78,56.7,78s56.7-25.4,56.7-56.7H85.1
+                                    C85.1,36.9,72.3,49.7,56.7,49.7"></path>
+                                <path class="blau" d="M78,21.3c0,11.7-9.5,21.3-21.3,21.3c-11.7,0-21.3-9.5-21.3-21.3S44.9,0,56.7,0S78,9.5,78,21.3"></path>
+                                <g>
+                                    <path class="grey" d="M174.7,68.4c-1.5,4.5-7,10.7-19.3,10.7c-8.7,0-15-2.6-18.2-7.6c-1.9-2.9-2.5-5.2-2.5-10.7V21.3h11.7v37.3
+                                        c0,3.5,0.3,5.6,1,6.8c1.3,2.5,4,3.9,7.8,3.9c5,0,8.2-2.4,8.7-6.6c0.2-1.2,0.2-2,0.2-5.1V21.3h11.6v38.2
+                                        C175.6,64.9,175.5,66,174.7,68.4"></path>
+                                    <path class="grey" d="M215.8,78.1l-17.2-29.7v29.7h-11.7V21.3h11.7v25.9l16.2-25.9h14l-18.1,26.3l20.2,30.5H215.8z"></path>
+                                    <path class="grey" d="M264.2,78.1V52.8h-16.3v25.3h-11.4V21.3h11.4v22.1h16.3V21.3h11.6v56.8H264.2z"></path>
+                                </g>
+                                <g class="ukh-logo-subline">
+                                    <path class="grey" d="M143.6,117.4c-6.6,0-8.6-3.4-8.6-7.4V92h4.2v16.7c0,3.8,1.4,5.1,4.4,5.1s4.5-1.8,4.5-5.1V92h4.1v17.9
+                                        C152.2,114.6,149.1,117.4,143.6,117.4"></path>
+                                    <path class="grey" d="M167.4,117v-12.1c0-2.5-0.6-3.2-2.1-3.2c-1.2,0-2.8,0.9-4,2.1V117h-3.8v-13.4c0-1.9-0.2-3-0.7-4.3l3.6-1
+                                        c0.4,0.8,0.6,1.6,0.6,2.6c1.9-1.7,3.6-2.5,5.6-2.5c2.8,0,4.8,1.7,4.8,5V117H167.4z"></path>
+                                    <path class="grey" d="M185.1,94.1c-0.9-0.4-1.4-0.6-2.2-0.6c-1.4,0-2.2,0.9-2.2,2.6v2.8h4.8l-1,2.7h-3.7v15.5h-3.9v-15.5h-1.7v-2.7
+                                        h1.8c0-0.2-0.1-1.2-0.1-2.7c0-3.8,2.3-5.5,5.5-5.5c1.5,0,2.8,0.3,4.1,1L185.1,94.1z"></path>
+                                    <path class="grey" d="M195.1,108.4c-4,0-5.1,1.2-5.1,3.5c0,1.7,0.9,2.8,2.5,2.8c1.3,0,2.5-0.8,3.3-1.9l0.1-4.3
+                                        C195.7,108.4,195.3,108.4,195.1,108.4z M199.2,117.7c-1.1-0.4-2.1-1.3-2.5-2.4c-1.5,1.7-3.1,2.2-5,2.2c-4.2,0-6-2.3-6-5.5
+                                        c0-4.2,3.2-6.3,9-6.3h1.2v-1c0-2.1-0.4-3.2-2.5-3.2c-2.3,0-4.9,1.7-5.4,2.1l-1.8-2.8c2.7-1.7,5-2.5,7.7-2.5c2.8,0,4.8,1,5.5,3
+                                        c0.3,0.8,0.3,1.8,0.3,4.5l-0.1,5.2c0,2.4,0.2,3.2,1.6,4.2L199.2,117.7z"></path>
+                                    <path class="grey" d="M209.1,117.4c-4,0-4-3.6-4-5.1V96.8c0-2.5-0.1-3.8-0.4-5.3l4.1-0.9c0.3,1.1,0.3,2.6,0.3,5V111
+                                        c0,2.4,0.1,2.8,0.4,3.3c0.2,0.3,0.8,0.5,1.3,0.3l0.6,2.4C210.7,117.2,210,117.4,209.1,117.4"></path>
+                                    <path class="grey" d="M218.1,117.4c-4,0-4-3.6-4-5.1V96.8c0-2.5-0.1-3.8-0.4-5.3l4.1-0.9c0.3,1.1,0.3,2.6,0.3,5V111
+                                        c0,2.4,0.1,2.8,0.4,3.3c0.2,0.3,0.8,0.5,1.3,0.3l0.6,2.4C219.8,117.2,219,117.4,218.1,117.4"></path>
+                                    <path class="grey" d="M234.3,117l-6.9-10.3l5.4-7.9h4.8l-6.2,7.7l7.7,10.5L234.3,117z M223.2,117V95.8c0-1.8-0.1-3-0.4-4.4l4-1
+                                        c0.2,1.2,0.4,2.9,0.4,4.8v21.7L223.2,117L223.2,117z"></path>
+                                    <path class="grey" d="M248.9,108.4c-4,0-5.1,1.2-5.1,3.5c0,1.7,0.9,2.8,2.5,2.8c1.3,0,2.5-0.8,3.3-1.9l0.1-4.3
+                                        C249.5,108.4,249.1,108.4,248.9,108.4z M253,117.7c-1.1-0.4-2.1-1.3-2.5-2.4c-1.5,1.7-3.1,2.2-5,2.2c-4.2,0-6-2.3-6-5.5
+                                        c0-4.2,3.2-6.3,9-6.3h1.2v-1c0-2.1-0.4-3.2-2.5-3.2c-2.3,0-4.9,1.7-5.4,2.1l-1.8-2.8c2.7-1.7,5-2.5,7.7-2.5c2.8,0,4.8,1,5.5,3
+                                        c0.3,0.8,0.3,1.8,0.3,4.5l-0.1,5.2c0,2.4,0.2,3.2,1.6,4.2L253,117.7z"></path>
+                                    <path class="grey" d="M263.9,117.5c-2.2,0-4.6-0.7-7-2l1.4-2.8c1.6,0.9,3.9,1.9,5.9,1.9c1.7,0,3-1,3-2.6c0-1.4-0.9-2.1-3-2.6
+                                        l-2.2-0.5c-2.7-0.6-4.4-2.4-4.4-5c0-3.4,2.7-5.8,6.8-5.8c2.5,0,4.5,0.8,6,1.6l-1.3,2.7c-1.7-0.9-3-1.3-4.5-1.3
+                                        c-1.7,0-2.8,0.9-2.8,2.3c0,1.1,0.6,1.7,2.4,2.2l2.3,0.6c3.7,0.9,4.6,3,4.6,5.1C271.3,115,268.3,117.5,263.9,117.5"></path>
+                                    <path class="grey" d="M280.2,117.5c-2.2,0-4.6-0.7-7-2l1.4-2.8c1.6,0.9,3.9,1.9,5.9,1.9c1.7,0,3-1,3-2.6c0-1.4-0.9-2.1-3-2.6
+                                        l-2.2-0.5c-2.7-0.6-4.4-2.4-4.4-5c0-3.4,2.7-5.8,6.8-5.8c2.5,0,4.5,0.8,6,1.6l-1.3,2.7c-1.7-0.9-3-1.3-4.5-1.3
+                                        c-1.7,0-2.8,0.9-2.8,2.3c0,1.1,0.6,1.7,2.4,2.2l2.3,0.6c3.7,0.9,4.6,3,4.6,5.1C287.6,115,284.6,117.5,280.2,117.5"></path>
+                                    <path class="grey" d="M298.4,101.3c-2.2,0-3.5,1.8-3.5,4.7h6.7C301.6,103.1,300.3,101.3,298.4,101.3z M294.9,108.9v0.3
+                                        c0,2.5,0.9,5.2,4.5,5.2c1.7,0,3.2-0.6,4.5-1.8l1.5,2.4c-1.9,1.6-4.1,2.4-6.6,2.4c-5.1,0-8.4-3.7-8.4-9.5c0-3.2,0.7-5.3,2.3-7.1
+                                        c1.5-1.7,3.3-2.4,5.6-2.4c1.8,0,3.5,0.5,5,1.9c1.6,1.4,2.4,3.7,2.4,7.9v0.8h-10.8V108.9z"></path>
+                                    <path class="grey" d="M329.7,117v-11.5h-8.5V117h-4.1V92.1h4.1v10h8.5v-10h4.2V117H329.7z"></path>
+                                    <path class="grey" d="M346,101.3c-2.2,0-3.5,1.8-3.5,4.7h6.7C349.3,103.1,348,101.3,346,101.3z M342.5,108.9v0.3
+                                        c0,2.5,0.9,5.2,4.5,5.2c1.7,0,3.2-0.6,4.5-1.8l1.5,2.4c-1.9,1.6-4.1,2.4-6.6,2.4c-5.1,0-8.4-3.7-8.4-9.5c0-3.2,0.7-5.3,2.3-7.1
+                                        c1.5-1.7,3.3-2.4,5.6-2.4c1.8,0,3.5,0.5,5,1.9c1.6,1.4,2.4,3.7,2.4,7.9v0.8h-10.8V108.9z"></path>
+                                    <path class="grey" d="M362.5,117.5c-2.2,0-4.6-0.7-7-2l1.4-2.8c1.6,0.9,3.9,1.9,5.9,1.9c1.7,0,3-1,3-2.6c0-1.4-0.9-2.1-3-2.6
+                                        l-2.2-0.5c-2.7-0.6-4.4-2.4-4.4-5c0-3.4,2.7-5.8,6.8-5.8c2.5,0,4.5,0.8,6,1.6l-1.3,2.7c-1.7-0.9-3-1.3-4.5-1.3
+                                        c-1.7,0-2.8,0.9-2.8,2.3c0,1.1,0.6,1.7,2.4,2.2l2.3,0.6c3.7,0.9,4.6,3,4.6,5.1C369.9,115,366.9,117.5,362.5,117.5"></path>
+                                    <path class="grey" d="M378.9,117.5c-2.2,0-4.6-0.7-7-2l1.4-2.8c1.6,0.9,3.9,1.9,5.9,1.9c1.7,0,3-1,3-2.6c0-1.4-0.9-2.1-3-2.6
+                                        l-2.2-0.5c-2.7-0.6-4.4-2.4-4.4-5c0-3.4,2.7-5.8,6.8-5.8c2.5,0,4.5,0.8,6,1.6l-1.3,2.7c-1.7-0.9-3-1.3-4.5-1.3
+                                        c-1.7,0-2.8,0.9-2.8,2.3c0,1.1,0.6,1.7,2.4,2.2l2.3,0.6c3.7,0.9,4.6,3,4.6,5.1C386.3,115,383.3,117.5,378.9,117.5"></path>
+                                    <path class="grey" d="M397,101.3c-2.2,0-3.5,1.8-3.5,4.7h6.7C400.3,103.1,399,101.3,397,101.3z M393.5,108.9v0.3
+                                        c0,2.5,0.9,5.2,4.5,5.2c1.7,0,3.2-0.6,4.5-1.8l1.5,2.4c-1.9,1.6-4.1,2.4-6.6,2.4c-5.1,0-8.4-3.7-8.4-9.5c0-3.2,0.7-5.3,2.3-7.1
+                                        c1.5-1.7,3.3-2.4,5.6-2.4c1.8,0,3.5,0.5,5,1.9c1.6,1.4,2.4,3.7,2.4,7.9v0.8h-10.8V108.9z"></path>
+                                    <path class="grey" d="M418.3,117v-12.1c0-2.5-0.6-3.2-2.1-3.2c-1.2,0-2.8,0.9-4,2.1V117h-3.9v-13.4c0-1.9-0.2-3-0.7-4.3l3.6-1
+                                        c0.4,0.8,0.6,1.6,0.6,2.6c1.9-1.7,3.6-2.5,5.6-2.5c2.8,0,4.8,1.7,4.8,5V117H418.3z"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+                <div class="col-6 col-md-6 col-lg-9 order-first order-lg-last">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="main-nav">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menüitem mit Dropdown</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <ul>
+                                            <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+                                            <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+                                            <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+          <div tal:replace="structure slot: site-messages" />
+          <div tal:replace="structure slot: above-content" />
+          <div tal:replace="structure content" />
+          <div tal:replace="structure slot: below-content" />
+        </div>
+    </div>
+
+    <div class="container-fluid" id="footer">
+        <div class="container">
+            <div class="row">
+              <div class="col-12 col-md-8">
+                <div tal:replace="structure slot: footer" />
+              </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
