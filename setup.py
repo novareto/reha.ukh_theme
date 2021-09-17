@@ -6,6 +6,8 @@ version = "0.1"
 
 
 install_requires = [
+    'fanstatic',
+    'uvcreha',
 ]
 
 test_requires = [
@@ -39,4 +41,9 @@ setup(
     extras_require={
         'test': test_requires,
     },
+    entry_points={
+        "fanstatic.libraries": [
+            "reha.ukh_theme = reha.ukh_theme.resources:library",
+        ],
+    }
 )

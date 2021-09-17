@@ -1,14 +1,14 @@
-from reha.ukh_theme import UKHRequest
-from reha.ukh_theme.resources import theme
 from reiter.application.browser import TemplateLoader
-from uvcreha.app import ui
+from uvcreha.request import Request
+from uvcreha.browser import ui
+from reha.ukh_theme.resources import theme
 
 
 TEMPLATES = TemplateLoader("./templates")
 layout_template = TEMPLATES["layout.pt"]
 
 
-@ui.register_layout(UKHRequest)
+@ui.register_layout(Request)
 class Layout:
 
     __slots__ = ("_template", "name")
