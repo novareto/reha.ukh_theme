@@ -1,0 +1,24 @@
+<div class="col-6 col-md-6 col-lg-9 order-first order-lg-last">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="main-nav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Menüitem</a></li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menüitem mit Dropdown</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <ul>
+              <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+              <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+              <li><a href="#" class="dropdown-item">Untermenüitem</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>

@@ -1,0 +1,15 @@
+<div class="container-fluid" id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-8">
+        <p class="copyright">© 2021 Unfallkasse Hessen</p>
+        <ul>
+          <li><a href="#" title="Menütitem">Menütitem</a></li>
+          <li><a href="#" title="Menütitem">Menütitem</a></li>
+          <li><a href="#" title="Menütitem">Menütitem</a></li>
+          <li><a href="#" title="Menütitem">Menütitem</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

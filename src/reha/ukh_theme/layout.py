@@ -36,11 +36,6 @@ def globalmenu(request, name, view):
     return TEMPLATES["globalmenu.pt"].render(request=request)
 
 
-@ui.register_slot(request=Request, name="navbar")
-def navbar(request, name, view):
-    return TEMPLATES["navbar.pt"].render(request=request)
-
-
 @ui.register_slot(request=Request, name="site-messages")
 def messages(request, name, view):
     utility = request.utilities.get("flash")
